@@ -3,7 +3,7 @@
 """
 Simple website crawler to get URL list, Meta tags and <H1>
 """
-__license__	= "GPL"
+__license__	= "MIT"
 __author__	= "Sergey V Musenko"
 __email__	= "sergey@musenko.com"
 __copyright__= "© 2023, musenko.com"
